@@ -1,0 +1,16 @@
+orderid,customer name,quantity,unitprice,email,misc value
+1001,Rahul Sharma,2,499.5,rahul@gmail.com,TRUE
+1002,Ananya Verma,1,1299.0,ananya@yahoo.com,45
+1003,Amit Singh,5,199.99,amit@outlook.com,priority
+1004,Neha Gupta,3,349.75,neha@gmail.com,FALSE
+1005,Rohan Mehta,10,89.9,rohan@gmail.com,
+1006,Pooja Patel,4,599.0,pooja@yahoo.com,N/A
+1007,Arjun Nair,6,249.5,,3.14
+1008,Sneha Iyer,2,999.99,sneha@gmail.com,10-01-2025
+1009,Kunal Das,8,159.25,kunal@yahoo.com,yes
+1010,Priya Malhotra,7,4999.0,priya@gmail.com,FALSE
+1011,Mohit Jain,7,275.0,,0
+1012,Aisha Khan,3,799.99,aisha@gmail.com,urgent
+1013,Vikram Rao,9,120.5,vikram@yahoo.com,TRUE
+1014,Simran Kaur,2,1499.0,simran@gmail.com,@special
+1015,Nikhil Bansal,5,650.0,nikhil@outlook.com,100
